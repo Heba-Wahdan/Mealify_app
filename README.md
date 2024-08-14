@@ -2,7 +2,7 @@
 
 Mealify is a versatile recipe management and meal planning application.
 
-![Screenshot of Mealify](/assets/Untitled design.pdf)
+![Screenshot of Mealify](assets/Untitled design.pdf)
 
 
 ## Getting Started
