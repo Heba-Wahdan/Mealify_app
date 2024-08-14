@@ -2,8 +2,7 @@
 
 Mealify is a versatile recipe management and meal planning application.
 
-![Screenshot of Mealify](assets/Untitled design-2.png)
-
+![Screenshot of Mealify](./assets/Untitled%20design-2.png)
 
 ## Getting Started
 
@@ -17,4 +16,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
