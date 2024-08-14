@@ -1,2 +1,16 @@
-# Mealify_app
-Mealify is a recipe and meal planning app that helps users discover, organize, and prepare meals. Browse recipes by category, explore detailed instructions, and create personalized meal plans with ease. Perfect for food enthusiasts and home cooks.
+# mealify
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
